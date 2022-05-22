@@ -1,0 +1,13 @@
+import React from 'react'
+import '../App.css';
+function Navbar() {
+    return (
+        <div>
+             <div className="icon-bar"> 
+       
+      </div>
+        </div>
+    )
+}
+
+export default Navbar
